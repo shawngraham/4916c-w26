@@ -2,46 +2,46 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on HIST 4916: The Business of History</title>
-    <link>https://example.org/tags/</link>
+    <link>https://shawngraham.github.io/4916/tags/</link>
     <description>Recent content in Tags on HIST 4916: The Business of History</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <copyright>This work is licensed under CC BY-SA 4.0 {year}</copyright>
     <lastBuildDate>Fri, 27 Dec 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://example.org/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://shawngraham.github.io/4916/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Hugo</title>
-      <link>https://example.org/tags/hugo/</link>
+      <link>https://shawngraham.github.io/4916/tags/hugo/</link>
       <pubDate>Fri, 27 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://example.org/tags/hugo/</guid>
+      <guid>https://shawngraham.github.io/4916/tags/hugo/</guid>
       <description></description>
     </item>
     <item>
       <title>Themes</title>
-      <link>https://example.org/tags/themes/</link>
+      <link>https://shawngraham.github.io/4916/tags/themes/</link>
       <pubDate>Fri, 27 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://example.org/tags/themes/</guid>
+      <guid>https://shawngraham.github.io/4916/tags/themes/</guid>
       <description></description>
     </item>
     <item>
       <title>Css</title>
-      <link>https://example.org/tags/css/</link>
+      <link>https://shawngraham.github.io/4916/tags/css/</link>
       <pubDate>Sat, 14 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://example.org/tags/css/</guid>
+      <guid>https://shawngraham.github.io/4916/tags/css/</guid>
       <description></description>
     </item>
     <item>
       <title>Html</title>
-      <link>https://example.org/tags/html/</link>
+      <link>https://shawngraham.github.io/4916/tags/html/</link>
       <pubDate>Sat, 14 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://example.org/tags/html/</guid>
+      <guid>https://shawngraham.github.io/4916/tags/html/</guid>
       <description></description>
     </item>
     <item>
       <title>Markdown</title>
-      <link>https://example.org/tags/markdown/</link>
+      <link>https://shawngraham.github.io/4916/tags/markdown/</link>
       <pubDate>Sat, 14 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://example.org/tags/markdown/</guid>
+      <guid>https://shawngraham.github.io/4916/tags/markdown/</guid>
       <description></description>
     </item>
   </channel>
