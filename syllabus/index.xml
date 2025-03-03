@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Syllabus on HIST 4916: The Business of History</title>
+    <link>https://example.org/syllabus/</link>
+    <description>Recent content in Syllabus on HIST 4916: The Business of History</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <copyright>This work is licensed under CC BY-SA 4.0 {year}</copyright>
+    <lastBuildDate></lastBuildDate>
+    <atom:link href="https://example.org/syllabus/index.xml" rel="self" type="application/rss+xml" />
+  </channel>
+</rss>
