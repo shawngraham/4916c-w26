@@ -46,10 +46,10 @@ tags: ["schedule", "activities"]
 + Feb 5 - **Greg Graham**. [Coronation Hall Cider Mills](https://coronationhall.com) {{< icon "circle-info" >}} agritourism, local history 
 + Feb 12 - **Ian Hember**, Registrar, Funeral, Burial and Cremation Services Act
 Burials Unit, Ontario. {{< icon "circle-info" >}} Legislative landscape, development. **Katherine Davidson**, professional CRM archaeologist {{< icon "circle-info" >}} CRM, encironment, development
-+ Feb 12 - **Emily Keyes**, Director, Engagement & Field Work [Know History](https://www.knowhistory.ca/who-we-are/). {{< icon "circle-info" >}} Research, litigation, community-led. **Jonathan Murphy** Founder, [GoGeomatics](https://gogeomatics.ca). {{< icon "circle-info" >}} Community building, media
-+ Feb 26 - **Glen Shackleton**, Founder [Haunted Walk](https://hauntedwalk.com/) {{< icon "circle-info" >}} Storytelling, tourism, local history, media
-+ Mar 5 - **Brandon Bolduc**, Founder [Aventure Outaouais](https://www.aventureoutaouais.ca/) {{< icon "circle-info" >}} Storytelling, tourism, local history, media
++ Feb 26 - **Emily Keyes**, Director, Engagement & Field Work [Know History](https://www.knowhistory.ca/who-we-are/). {{< icon "circle-info" >}} Research, litigation, community-led. **Jonathan Murphy** Founder, [GoGeomatics](https://gogeomatics.ca). {{< icon "circle-info" >}} Community building, media
++ Mar 5 - **Glen Shackleton**, Founder [Haunted Walk](https://hauntedwalk.com/) {{< icon "circle-info" >}} Storytelling, tourism, local history, media. **Brandon Bolduc**, Founder [Aventure Outaouais](https://www.aventureoutaouais.ca/) {{< icon "circle-info" >}} Storytelling, tourism, local history, media
 + Mar 12 - Patti Harper, Practicing National Archival Appraisal Board Appraiser; Vice Chair of [NAAB](https://naab.ca/) {{< icon "circle-info" >}} valuation material culture    
+
 
 ---
 
