@@ -15,7 +15,6 @@ More resources will be posted here as I find them. Check back often. You might w
 
 ## Articles & Books
 
-
 Andereck, Kathleen L., et al. "Heritage on the High Plains: Motive-Based Market Segmentation for a US National Historic Site."" Sustainability, vol. 16, no. 24, 2024, p. 10854, https://doi.org/10.3390/su162410854.
 
 Austin, Nathan K. "Managing Heritage Attractions: Marketing Challenges at Sensitive Historical Sites."" The International Journal of Tourism Research, vol. 4, no. 6, 2002, pp. 447–57, https://doi.org/10.1002/jtr.403.
@@ -77,3 +76,7 @@ Guide to Starting a Small Business in Ontario | Ottawa Public Library. https://f
 Local Business Support Organizations. 26 Jun. 2025 | City of Ottawa https://ottawa.ca/en/local-business-support-organizations.
 
 Small Business Navigator. 21 Oct. 2025 | City of Ottawa https://ottawa.ca/en/business/get-help-starting-or-growing-your-business/starting-or-growing-your-business/small-business-navigator.
+
+## Organizations
+
+Capital Heritage Connection - https://capitalheritage.ca/ - Sign up for their mailing list/newsletter especially.
