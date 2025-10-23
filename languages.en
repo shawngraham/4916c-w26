@@ -1,0 +1,22 @@
+languageCode = "en-CA"
+languageName = "English (Canada)"
+languageDirection = "ltr"
+weight = 1
+
+title = "HIST4916c|DIGH4001a|ENGL4155a"
+copyright = "Creative Commons nc-by-sa 4.0 Shawn Graham"
+
+[params]
+  dateFormat = "2 January 2006"
+
+  mainSections = ["samples"]
+  description = "Your Historical Training as Entrepreneurial Edge."
+
+[params.author]
+  name = "Shawn Graham"
+  image = "img/antique-cash-register.jpg"
+  headline = "Not your ordinary theme!"
+  bio = "Shawn Graham is Professor of Digital Humanities at Carleton University"
+  links = [
+    { mastodon = "https://scholar.social/@electricarchaeo" },
+  ]
