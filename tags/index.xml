@@ -2,88 +2,88 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on HIST4916c|DIGH4001a|ENGL4155a</title>
-    <link>shawngraham.github.io/4916c-w26/tags/</link>
+    <link>//localhost:1313/4916c-w26/tags/</link>
     <description>Recent content in Tags on HIST4916c|DIGH4001a|ENGL4155a</description>
     <generator>Hugo</generator>
     <language>en-AU</language>
     <copyright>Creative Commons nc-by-sa 4.0 Shawn Graham</copyright>
     <lastBuildDate>Sat, 08 Aug 2020 00:00:00 +0000</lastBuildDate>
-    <atom:link href="shawngraham.github.io/4916c-w26/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="//localhost:1313/4916c-w26/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Activities</title>
-      <link>shawngraham.github.io/4916c-w26/tags/activities/</link>
+      <link>//localhost:1313/4916c-w26/tags/activities/</link>
       <pubDate>Sat, 08 Aug 2020 00:00:00 +0000</pubDate>
-      <guid>shawngraham.github.io/4916c-w26/tags/activities/</guid>
+      <guid>//localhost:1313/4916c-w26/tags/activities/</guid>
       <description></description>
     </item>
     <item>
       <title>Biographies</title>
-      <link>shawngraham.github.io/4916c-w26/tags/biographies/</link>
+      <link>//localhost:1313/4916c-w26/tags/biographies/</link>
       <pubDate>Sat, 08 Aug 2020 00:00:00 +0000</pubDate>
-      <guid>shawngraham.github.io/4916c-w26/tags/biographies/</guid>
+      <guid>//localhost:1313/4916c-w26/tags/biographies/</guid>
       <description></description>
     </item>
     <item>
       <title>Docs</title>
-      <link>shawngraham.github.io/4916c-w26/tags/docs/</link>
+      <link>//localhost:1313/4916c-w26/tags/docs/</link>
       <pubDate>Sat, 08 Aug 2020 00:00:00 +0000</pubDate>
-      <guid>shawngraham.github.io/4916c-w26/tags/docs/</guid>
+      <guid>//localhost:1313/4916c-w26/tags/docs/</guid>
       <description></description>
     </item>
     <item>
       <title>Grading</title>
-      <link>shawngraham.github.io/4916c-w26/tags/grading/</link>
+      <link>//localhost:1313/4916c-w26/tags/grading/</link>
       <pubDate>Sat, 08 Aug 2020 00:00:00 +0000</pubDate>
-      <guid>shawngraham.github.io/4916c-w26/tags/grading/</guid>
+      <guid>//localhost:1313/4916c-w26/tags/grading/</guid>
       <description></description>
     </item>
     <item>
       <title>Guests</title>
-      <link>shawngraham.github.io/4916c-w26/tags/guests/</link>
+      <link>//localhost:1313/4916c-w26/tags/guests/</link>
       <pubDate>Sat, 08 Aug 2020 00:00:00 +0000</pubDate>
-      <guid>shawngraham.github.io/4916c-w26/tags/guests/</guid>
+      <guid>//localhost:1313/4916c-w26/tags/guests/</guid>
       <description></description>
     </item>
     <item>
       <title>Instructions</title>
-      <link>shawngraham.github.io/4916c-w26/tags/instructions/</link>
+      <link>//localhost:1313/4916c-w26/tags/instructions/</link>
       <pubDate>Sat, 08 Aug 2020 00:00:00 +0000</pubDate>
-      <guid>shawngraham.github.io/4916c-w26/tags/instructions/</guid>
+      <guid>//localhost:1313/4916c-w26/tags/instructions/</guid>
       <description></description>
     </item>
     <item>
       <title>Links</title>
-      <link>shawngraham.github.io/4916c-w26/tags/links/</link>
+      <link>//localhost:1313/4916c-w26/tags/links/</link>
       <pubDate>Sat, 08 Aug 2020 00:00:00 +0000</pubDate>
-      <guid>shawngraham.github.io/4916c-w26/tags/links/</guid>
+      <guid>//localhost:1313/4916c-w26/tags/links/</guid>
       <description></description>
     </item>
     <item>
       <title>Readings</title>
-      <link>shawngraham.github.io/4916c-w26/tags/readings/</link>
+      <link>//localhost:1313/4916c-w26/tags/readings/</link>
       <pubDate>Sat, 08 Aug 2020 00:00:00 +0000</pubDate>
-      <guid>shawngraham.github.io/4916c-w26/tags/readings/</guid>
+      <guid>//localhost:1313/4916c-w26/tags/readings/</guid>
       <description></description>
     </item>
     <item>
       <title>Resources</title>
-      <link>shawngraham.github.io/4916c-w26/tags/resources/</link>
+      <link>//localhost:1313/4916c-w26/tags/resources/</link>
       <pubDate>Sat, 08 Aug 2020 00:00:00 +0000</pubDate>
-      <guid>shawngraham.github.io/4916c-w26/tags/resources/</guid>
+      <guid>//localhost:1313/4916c-w26/tags/resources/</guid>
       <description></description>
     </item>
     <item>
       <title>Schedule</title>
-      <link>shawngraham.github.io/4916c-w26/tags/schedule/</link>
+      <link>//localhost:1313/4916c-w26/tags/schedule/</link>
       <pubDate>Sat, 08 Aug 2020 00:00:00 +0000</pubDate>
-      <guid>shawngraham.github.io/4916c-w26/tags/schedule/</guid>
+      <guid>//localhost:1313/4916c-w26/tags/schedule/</guid>
       <description></description>
     </item>
     <item>
       <title>advanced</title>
-      <link>shawngraham.github.io/4916c-w26/tags/advanced/</link>
+      <link>//localhost:1313/4916c-w26/tags/advanced/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>shawngraham.github.io/4916c-w26/tags/advanced/</guid>
+      <guid>//localhost:1313/4916c-w26/tags/advanced/</guid>
       <description></description>
     </item>
   </channel>
