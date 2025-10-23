@@ -5,7 +5,7 @@
 [build.environment]
 HUGO_VERSION = "0.147.8"
 HUGO_THEMESDIR = "../.."
-HUGO_THEME = "repo"
+HUGO_THEME = "congo"
 TZ = "North America/Montreal"
 
 [context.production.environment]
