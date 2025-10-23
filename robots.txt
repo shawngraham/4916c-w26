@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: shawngraham.github.io/4916c-w26/sitemap.xml

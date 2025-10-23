@@ -1,47 +1,89 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on HIST 4916: The Business of History</title>
-    <link>https://shawngraham.github.io/4916/tags/</link>
-    <description>Recent content in Tags on HIST 4916: The Business of History</description>
+    <title>Tags on HIST4916c|DIGH4001a|ENGL4155a</title>
+    <link>shawngraham.github.io/4916c-w26/tags/</link>
+    <description>Recent content in Tags on HIST4916c|DIGH4001a|ENGL4155a</description>
     <generator>Hugo</generator>
-    <language>en-us</language>
-    <copyright>This work is licensed under CC BY-SA 4.0 {year}</copyright>
-    <lastBuildDate>Fri, 27 Dec 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://shawngraham.github.io/4916/tags/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-AU</language>
+    <copyright>Creative Commons nc-by-sa 4.0 Shawn Graham</copyright>
+    <lastBuildDate>Sat, 08 Aug 2020 00:00:00 +0000</lastBuildDate>
+    <atom:link href="shawngraham.github.io/4916c-w26/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Hugo</title>
-      <link>https://shawngraham.github.io/4916/tags/hugo/</link>
-      <pubDate>Fri, 27 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://shawngraham.github.io/4916/tags/hugo/</guid>
+      <title>Activities</title>
+      <link>shawngraham.github.io/4916c-w26/tags/activities/</link>
+      <pubDate>Sat, 08 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>shawngraham.github.io/4916c-w26/tags/activities/</guid>
       <description></description>
     </item>
     <item>
-      <title>Themes</title>
-      <link>https://shawngraham.github.io/4916/tags/themes/</link>
-      <pubDate>Fri, 27 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://shawngraham.github.io/4916/tags/themes/</guid>
+      <title>Biographies</title>
+      <link>shawngraham.github.io/4916c-w26/tags/biographies/</link>
+      <pubDate>Sat, 08 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>shawngraham.github.io/4916c-w26/tags/biographies/</guid>
       <description></description>
     </item>
     <item>
-      <title>Css</title>
-      <link>https://shawngraham.github.io/4916/tags/css/</link>
-      <pubDate>Sat, 14 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://shawngraham.github.io/4916/tags/css/</guid>
+      <title>Docs</title>
+      <link>shawngraham.github.io/4916c-w26/tags/docs/</link>
+      <pubDate>Sat, 08 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>shawngraham.github.io/4916c-w26/tags/docs/</guid>
       <description></description>
     </item>
     <item>
-      <title>Html</title>
-      <link>https://shawngraham.github.io/4916/tags/html/</link>
-      <pubDate>Sat, 14 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://shawngraham.github.io/4916/tags/html/</guid>
+      <title>Grading</title>
+      <link>shawngraham.github.io/4916c-w26/tags/grading/</link>
+      <pubDate>Sat, 08 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>shawngraham.github.io/4916c-w26/tags/grading/</guid>
       <description></description>
     </item>
     <item>
-      <title>Markdown</title>
-      <link>https://shawngraham.github.io/4916/tags/markdown/</link>
-      <pubDate>Sat, 14 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://shawngraham.github.io/4916/tags/markdown/</guid>
+      <title>Guests</title>
+      <link>shawngraham.github.io/4916c-w26/tags/guests/</link>
+      <pubDate>Sat, 08 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>shawngraham.github.io/4916c-w26/tags/guests/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Instructions</title>
+      <link>shawngraham.github.io/4916c-w26/tags/instructions/</link>
+      <pubDate>Sat, 08 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>shawngraham.github.io/4916c-w26/tags/instructions/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Links</title>
+      <link>shawngraham.github.io/4916c-w26/tags/links/</link>
+      <pubDate>Sat, 08 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>shawngraham.github.io/4916c-w26/tags/links/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Readings</title>
+      <link>shawngraham.github.io/4916c-w26/tags/readings/</link>
+      <pubDate>Sat, 08 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>shawngraham.github.io/4916c-w26/tags/readings/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Resources</title>
+      <link>shawngraham.github.io/4916c-w26/tags/resources/</link>
+      <pubDate>Sat, 08 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>shawngraham.github.io/4916c-w26/tags/resources/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Schedule</title>
+      <link>shawngraham.github.io/4916c-w26/tags/schedule/</link>
+      <pubDate>Sat, 08 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>shawngraham.github.io/4916c-w26/tags/schedule/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>advanced</title>
+      <link>shawngraham.github.io/4916c-w26/tags/advanced/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>shawngraham.github.io/4916c-w26/tags/advanced/</guid>
       <description></description>
     </item>
   </channel>
