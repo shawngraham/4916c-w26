@@ -25,6 +25,8 @@ Cauvin, Thomas. 2016. "Historians as Consultants and Advisors: Clients, Courtroo
 
 Chhabra, Deepak. _Sustainable Marketing of Cultural and Heritage Tourism_. Routledge, 2010. (Available online through our library catalogue.)
 
+Cole, Bruce. "HISTORIAN FOR HIRE." Humanities (Washington), vol. 30, no. 1, 2009, p. 6. (Available online through our library catalogue.)
+
 Cwynar, Christopher. "Self-Service Media: Public Radio Personalities, Reality Podcasting, and Entrepreneurial Culture." Popular Communication, vol. 17, no. 4, 2019, pp. 317–32, https://doi.org/10.1080/15405702.2019.1634811.
 
 Graham, Shawn. 2025. _Practical Necromancy for Beginners_. The Digital Press at the University of North Dakota. https://thedigitalpress.org/practical-necromancy-for-beginners/
@@ -44,6 +46,10 @@ Long, Colin, and Sophia Labadi. 2010. "The Business of Heritage and the Private 
 Martin, Brian. 2017. 'The Business of History: Customers, Professionals, and Money', in Paula Hamilton, and James B. Gardner (eds), _The Oxford Handbook of Public History_, Oxford Handbooks. https://doi-org.proxy.library.carleton.ca/10.1093/oxfordhb/9780199766024.013.6.
 
 McGregor, Helen. 2022. "Podcast Studies". _Oxford Research Encyclopedia of Literature_. Retrieved 22 Oct. 2025, from https://oxfordre.com/literature/view/10.1093/acrefore/9780190201098.001.0001/acrefore-9780190201098-e-1338. 
+
+Miller, Heather Lee. "The Business of History: Working as a Historical Consultant." Journal of Women’s History, vol. 25, no. 4, 2013, pp. 342–49, https://doi.org/10.1353/jowh.2013.0063.
+
+Ott, Daniel P. _Harvesting History: McCormick's Reaper, Heritage Branding, and Historical Forgery_. University of Nebraska Press, https://www.nebraskapress.unl.edu/nebraska/9781496206985/harvesting-history/. (We don't have this yet in our library; but maybe one to keep an eye out for.)
 
 Pasts Collective. _Canadians and Their Pasts_. University of Toronto Press, 2013. https://doi.org/10.3138/9781442667648.
 

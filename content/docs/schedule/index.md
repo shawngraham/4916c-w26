@@ -28,6 +28,8 @@ tags: ["schedule", "activities"]
 
 + Jan 22 - History Businesses, a survey
 
+	**For today, please also have selected at least five resources from the list that may speak to your own particular interests and be prepared to tell us about it.**
+
 	{{< alert "circle-info" >}}
 **Explore** Statistics Canada & The Canada Council for the Arts provide some useful perspective:
 + https://ised-isde.canada.ca/app/ixb/cis/summary-sommaire/7121
