@@ -21,7 +21,7 @@ Austin, Nathan K. "Managing Heritage Attractions: Marketing Challenges at Sensit
 
 Batat, Wided. "How Can Art Museums Develop New Business Opportunities? Exploring Young Visitors’ Experience."" Young Consumers, vol. 21, no. 1, 2020, pp. 109–31, https://doi.org/10.1108/YC-09-2019-1049.
 
-Cauvin, Thomas. 2016. "Historians as Consultants and Advisors: Clients, Courtroom, and Public Policy." _Public History_, 1st ed., Routledge. pp. 250–72, https://doi.org/10.4324/9781315718255-18.
+Cauvin, Thomas. 2016. "Historians as Consultants and Advisors: Clients, Courtroom, and Public Policy." _Public History_, 1st ed., Routledge. pp. 250–72, https://doi.org/10.4324/9781315718255-18. Our library only seems to have online access to the first edition, but the second updated edition is available at the course reserves desk, shelfmark: 'D16.163 .C38 2022'. See the "Business, Policy, Justice" chapter especially its updated bibliography.
 
 Chhabra, Deepak. _Sustainable Marketing of Cultural and Heritage Tourism_. Routledge, 2010. (Available online through our library catalogue.)
 
@@ -48,6 +48,8 @@ Martin, Brian. 2017. 'The Business of History: Customers, Professionals, and Mon
 McGregor, Helen. 2022. "Podcast Studies". _Oxford Research Encyclopedia of Literature_. Retrieved 22 Oct. 2025, from https://oxfordre.com/literature/view/10.1093/acrefore/9780190201098.001.0001/acrefore-9780190201098-e-1338. 
 
 Miller, Heather Lee. "The Business of History: Working as a Historical Consultant." Journal of Women’s History, vol. 25, no. 4, 2013, pp. 342–49, https://doi.org/10.1353/jowh.2013.0063.
+
+MILLER, J. S. "Mapping the Boosterist Imaginary: Colonial Williamsburg, Historical Tourism, and the Construction of Managerial Memory."" The Public Historian, vol. 28, no. 4, 2006, pp. 51–74, https://doi.org/10.1525/tph.2006.28.4.51.
 
 Ott, Daniel P. _Harvesting History: McCormick's Reaper, Heritage Branding, and Historical Forgery_. University of Nebraska Press, https://www.nebraskapress.unl.edu/nebraska/9781496206985/harvesting-history/. (We don't have this yet in our library; but maybe one to keep an eye out for.)
 
