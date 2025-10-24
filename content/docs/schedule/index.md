@@ -33,7 +33,7 @@ tags: ["schedule", "activities"]
 + https://ised-isde.canada.ca/app/ixb/cis/summary-sommaire/7121
 + https://www.statcan.gc.ca/en/subjects-start/business_and_consumer_services_and_culture/culture
 
-+ Please also have selected at least five resources from the [resources page]({{< ref "texts-and-resources" >}}) that may speak to your own particular interests and be prepared to tell us about it.**
++ Please also have selected at least five resources from the [resources page]({{< ref "texts-and-resources" >}}) that may speak to your own particular interests and be prepared to tell us about it.
 
 {{< /alert >}}
 
@@ -51,15 +51,15 @@ tags: ["schedule", "activities"]
 Burials Unit, Ontario. {{< icon "circle-info" >}} Legislative landscape, development. **Katherine Davidson**, professional CRM archaeologist {{< icon "circle-info" >}} CRM, encironment, development
 + Feb 26 - **Emily Keyes**, Director, Engagement & Field Work [Know History](https://www.knowhistory.ca/who-we-are/). {{< icon "circle-info" >}} Research, litigation, community-led. **Jonathan Murphy** Founder, [GoGeomatics](https://gogeomatics.ca). {{< icon "circle-info" >}} Community building, media
 + Mar 5 - **Glen Shackleton**, Founder [Haunted Walk](https://hauntedwalk.com/) {{< icon "circle-info" >}} Storytelling, tourism, local history, media. **Brandon Bolduc**, Founder [Aventure Outaouais](https://www.aventureoutaouais.ca/) {{< icon "circle-info" >}} Storytelling, tourism, local history, media
-+ Mar 12 - Patti Harper, Practicing National Archival Appraisal Board Appraiser; Vice Chair of [NAAB](https://naab.ca/) {{< icon "circle-info" >}} valuation material culture    
++ Mar 12 - **Patti Harper**, Practicing National Archival Appraisal Board Appraiser; Vice Chair of [NAAB](https://naab.ca/) {{< icon "circle-info" >}} valuation material culture    
 
 
 ---
 
 ## Part Three
 
-+ March 19: The Business of History Unconference & Design Sprint 
-+ March 26: TBD
++ March 19: What have we learned? 
++ March 26: The Business of History Unconference & Design Sprint
 + April 2: The Grand Reveal
 
 #### Business Models are due April 3rd.
