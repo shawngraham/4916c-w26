@@ -75,6 +75,8 @@ Statistics Canada. "Heritage Institutions". https://ised-isde.canada.ca/app/ixb/
 
 ## Guides
 
+[Business Benefits Finder] | [Government of Canada](https://innovation.ised-isde.canada.ca/innovation/s/?language=en_CA)
+
 Business Planning — a Community-Created List from OPLBusinessServices | Ottawa Public Library, https://ottawa-parent.bibliocommons.com/v2/list/display/69391174/72413751.
 
 Guide to Starting a Small Business in Ontario | Ottawa Public Library. https://forms.biblioottawalibrary.ca/en/guide-starting-small-business-ontario.
@@ -83,6 +85,40 @@ Local Business Support Organizations. 26 Jun. 2025 | City of Ottawa https://otta
 
 Small Business Navigator. 21 Oct. 2025 | City of Ottawa https://ottawa.ca/en/business/get-help-starting-or-growing-your-business/starting-or-growing-your-business/small-business-navigator.
 
+Social Enterprises in Canada | [Government of Canada](https://ised-isde.canada.ca/site/ised/en/social-enterprises-canada)
+
 ## Organizations
 
-Capital Heritage Connection - https://capitalheritage.ca/ - Sign up for their mailing list/newsletter especially.
+Capital Heritage Connexion - https://capitalheritage.ca/ - Sign up for their mailing list/newsletter especially.
+
+## Funding
+
+_These were cribbed from Capital Heritage Connexion_
+
+[City of Ottawa Heritage Funding](https://ottawa.ca/en/arts-heritage-and-events/funding-calls-and-opportunities/cultural-funding/heritage-funding-program)
+
+[City of Ottawa Equity and Inclusion in the Arts Fund](https://ottawa.ca/en/arts-heritage-and-events/funding-calls-and-opportunities/cultural-funding/equity-and-inclusion-arts-fund#)
+
+[Digital Museums Canada – Small, Medium & Large Investment funding](https://www.digitalmuseums.ca/)
+
+[Local Festivals – Building Communities Through Arts and Heritage (Canadian Heritage)](https://www.canada.ca/en/canadian-heritage/services/funding/building-communities/festivals.html)
+
+[Funding Opportunity – Federal Anti-Racism Secretariat:  Department of Canadian Heritage](https://www.canada.ca/en/canadian-heritage/services/funding/multiculturalism-anti-racism.html)
+
+[Documentary Heritage Communities Program (Library and Archives Canada)](https://www.canada.ca/en/library-archives/services/funding-programs/dhcp.html)
+
+[Community Grant Programs (Ottawa Community Foundation)](https://www.ocf-fco.ca/grant-programs/)
+
+[Canada-Ontario Job Grant (Ministry of Colleges and Universities)](https://www.ontario.ca/page/canada-ontario-job-grant-cojg)
+
+[Skills Development Fund Training Stream (Employment Ontario)](https://www.ontario.ca/page/skills-development-fund-training-stream)
+
+[Grow Grant (Ontario Trillium Foundation)](https://otf.ca/our-grants/community-investments-grants/grow-grant)
+
+[Collections Management – Museums Assistance Program (Canadian Heritage)](https://www.canada.ca/en/canadian-heritage/services/funding/museums-assistance/collections-management.html)
+
+[Access to Heritage – Museums Assistance Program (Canadian Heritage)](https://www.canada.ca/en/canadian-heritage/services/funding/museums-assistance/access-heritage.html)
+
+### Others I've found
+
+[Ontario Startup Business Grants](https://ontariobusinessgrants.com/by-audience/)start-up-business-grants/
