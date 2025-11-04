@@ -53,7 +53,6 @@ Burials Unit, Ontario. {{< icon "circle-info" >}} Legislative landscape, develop
 + Mar 5 - **Glen Shackleton**, Founder [Haunted Walk](https://hauntedwalk.com/) {{< icon "circle-info" >}} Storytelling, tourism, local history, media. **Brandon Bolduc**, Founder [Aventure Outaouais](https://www.aventureoutaouais.ca/) {{< icon "circle-info" >}} Storytelling, tourism, local history, media
 + Mar 12 - **Patti Harper**, Practicing National Archival Appraisal Board Appraiser; Vice Chair of [NAAB](https://naab.ca/) {{< icon "circle-info" >}} valuation material culture    
 
-
 ---
 
 ## Part Three

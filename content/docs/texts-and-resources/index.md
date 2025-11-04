@@ -121,6 +121,6 @@ _These were cribbed from Capital Heritage Connexion_
 
 [Access to Heritage – Museums Assistance Program (Canadian Heritage)](https://www.canada.ca/en/canadian-heritage/services/funding/museums-assistance/access-heritage.html)
 
-### Others I've found
+[Ontario Startup Business Grants](https://ontariobusinessgrants.com/by-audience/start-up-business-grants/)
 
-[Ontario Startup Business Grants](https://ontariobusinessgrants.com/by-audience/)start-up-business-grants/
+[Ontario Student and Youth Grants](https://ontariobusinessgrants.com/by-audience/student-youth-entrepreneur-funding/)
