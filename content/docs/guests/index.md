@@ -23,6 +23,8 @@ These folks are engaged in 'historical' ways of thinking to reach their customer
 
 **Patti Harper**, Practicing National Archival Appraisal Board Appraiser; Vice Chair of [NAAB](https://naab.ca/) {{< icon "circle-info" >}} valuation material culture   
 
+**Nigel Hetherington** co-founder with Kelly Krause of [Past Preservers](https://pastpreservers.com/) media production and media representation for over "1400 professionals from over twenty countries and includes archaeologists, historians, Egyptologists, classicists, conservationists, forensic biologists, anthropologists, authors, and heritage consultants." 
+
 **Ian Hember**, Ontario Registrar, Funeral, Burial and Cremation Services Act
 Burials Unit, Ontario. {{< icon "circle-info" >}} Legislative landscape, development, the business of cemeteries. 
 
