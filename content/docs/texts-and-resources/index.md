@@ -53,7 +53,7 @@ MILLER, J. S. "Mapping the Boosterist Imaginary: Colonial Williamsburg, Historic
 
 Ott, Daniel P. _Harvesting History: McCormick's Reaper, Heritage Branding, and Historical Forgery_. University of Nebraska Press, https://www.nebraskapress.unl.edu/nebraska/9781496206985/harvesting-history/. (We don't have this yet in our library; but maybe one to keep an eye out for.)
 
-Pasts Collective. _Canadians and Their Pasts_. University of Toronto Press, 2013. https://doi.org/10.3138/9781442667648.
+Pasts Collective. _Canadians and Their Pasts_. University of Toronto Press, 2013. https://doi.org/10.3138/9781442667648. [Permalink to online version via MacOdrum](https://ocul-crl.primo.exlibrisgroup.com/permalink/01OCUL_CRL/1ortgfo/cdi_proquest_ebookcentral_EBC3290496).
 
 Rosenzweig, Roy, and David P. Thelen. 1998. _The Presence of the Past: Popular Uses of History in American Life_. Columbia University Press, 1998.
 
