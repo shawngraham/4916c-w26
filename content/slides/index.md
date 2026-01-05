@@ -9,4 +9,4 @@ slug: "slides"
 
 # Not many, but some:
 
-+ [jan8](/jan8/index.html)
++ [jan8](/slides/jan8/index.html)
