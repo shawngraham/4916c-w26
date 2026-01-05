@@ -17,7 +17,7 @@ These folks are engaged in 'historical' ways of thinking to reach their customer
 
 **Alan Cross**, Broadcaster, podcaster, media personality. [AlanCross.ca](https://www.ajournalofmusicalthings.com/about_alan_cross/) {{< icon "circle-info" >}} media, podcasting, storytelling
 
-**Katherine Davidson**, professional CRM archaeologist {{< icon "circle-info" >}} CRM, encironment, development
+**Katherine Davidson**, professional CRM archaeologist {{< icon "circle-info" >}} CRM, environment, development
 
 **Greg Graham**. [Coronation Hall Cider Mills](https://coronationhall.com) {{< icon "circle-info" >}} agritourism, local history 
 
