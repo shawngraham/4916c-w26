@@ -43,6 +43,8 @@ Environment scan:
 
 NB This isn't a business plan or model; it's a back-of-the-envelope blue-sky dreaming-big-dreams moment. The goal of this is to get you thinking about the practicalities and possibilities as we move into the second part of the class and hear from people out there in the history 'industry'. 
 
+**NO AI TO BE USED IN THE CONTEXT OF THE ENVIRONMENTAL SCAN**
+
 ## Lead Discussant / Backgrounder
 
 Due before class before the relevant day.
@@ -52,6 +54,8 @@ Conduct background research on our guest's particular industry or business so th
 These questions along with a 'backgrounder' document (5 - 10 pgs MAX) will be submitted to me electronically before the particular day **and will be shared with the class**.
 
 On the day, I will introduce the guest, and after the initial chat, you will take on the role of asking the first questions (drawn from your list and background knowledge), and moderating the discussion.
+
+**IN CERTAIN LIMITED CONTEXTS CERTAIN GENERATIVE AI TOOLS MIGHT BE USEFUL** with permission and planning. Such permission will have to be obtained from me through personal consultation. You take responsibility for anything that a generative AI tool 'creates' (and note the inherent conservatism and lack of creativity inherent in such tools). Work created using generative AI that has not been pre-approved will be rejected and you will be required to redo it again.
 
 ## Business Model
 
@@ -75,3 +79,5 @@ In part three, you'll revisit your environment scan, your backgrounder (or someo
 ...and whatever else is necessary.
 
 *You are trying to sell me on your idea*. No more than ten pages. In addition, prepare a visually pleasing one-pager that captures everything. You will have ten minutes to share the one-pager with the class.
+
+**IN CERTAIN LIMITED CONTEXTS CERTAIN GENERATIVE AI TOOLS MIGHT BE USEFUL** with permission and planning. Such permission will have to be obtained from me through personal consultation. You take responsibility for anything that a generative AI tool 'creates' (and note the inherent conservatism and lack of creativity inherent in such tools). Work created using generative AI that has not been pre-approved will be rejected and you will be required to redo it again. **Note that the use of such tools in certain contexts might undermine the value-proposition of a 'history' business in the first place.**
