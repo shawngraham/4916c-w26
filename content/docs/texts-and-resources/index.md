@@ -17,6 +17,8 @@ More resources will be posted here as I find them. Check back often. You might w
 
 Andereck, Kathleen L., et al. "Heritage on the High Plains: Motive-Based Market Segmentation for a US National Historic Site."" Sustainability, vol. 16, no. 24, 2024, p. 10854, https://doi.org/10.3390/su162410854.
 
+Amundsen-Meyer L, Holyoke KR, Munro M. Contemporary Cultural Resource Management in Canada: Labor Market Dynamics and Challenges. Advances in Archaeological Practice. Published online 2025:1-18. https://doi.org/10.1017/aap.2025.10105
+
 Austin, Nathan K. "Managing Heritage Attractions: Marketing Challenges at Sensitive Historical Sites."" The International Journal of Tourism Research, vol. 4, no. 6, 2002, pp. 447–57, https://doi.org/10.1002/jtr.403.
 
 Batat, Wided. "How Can Art Museums Develop New Business Opportunities? Exploring Young Visitors’ Experience."" Young Consumers, vol. 21, no. 1, 2020, pp. 109–31, https://doi.org/10.1108/YC-09-2019-1049.
@@ -26,6 +28,8 @@ Cauvin, Thomas. 2016. "Historians as Consultants and Advisors: Clients, Courtroo
 Chhabra, Deepak. _Sustainable Marketing of Cultural and Heritage Tourism_. Routledge, 2010. (Available online through our library catalogue.)
 
 Cole, Bruce. "HISTORIAN FOR HIRE." Humanities (Washington), vol. 30, no. 1, 2009, p. 6. (Available online through our library catalogue.)
+
+Conrad, Margaret, et al. “Canadians and Their Pasts: An Exploration in Historical Consciousness.” The Public Historian, vol. 31, no. 1, 2009, pp. 15–34. JSTOR, https://doi.org/10.1525/tph.2009.31.1.15. 
 
 Cwynar, Christopher. "Self-Service Media: Public Radio Personalities, Reality Podcasting, and Entrepreneurial Culture." Popular Communication, vol. 17, no. 4, 2019, pp. 317–32, https://doi.org/10.1080/15405702.2019.1634811.
 
@@ -92,6 +96,11 @@ Social Enterprises in Canada | [Government of Canada](https://ised-isde.canada.c
 ## Organizations
 
 Capital Heritage Connexion - https://capitalheritage.ca/ - Sign up for their mailing list/newsletter especially.
+
+## Model Contracts
+
+
+Professional Historians Australia - Model Contracts - Guidelines for Business Agreements and Contracts https://www.historians.org.au/model-contracts/
 
 ## Funding
 
